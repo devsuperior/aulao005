@@ -17,17 +17,17 @@ import com.devsuperior.myfirstproject.repositories.ProductRepository;
 public class ProductResource {
 
 	@Autowired
-	private ProductRepository categoryRepository;
+	private ProductRepository productRepository;
 	
 	@GetMapping
 	public ResponseEntity<List<Product>> findAll() {
-		List<Product> list = categoryRepository.findAll();
+		List<Product> list = productRepository.findAll();
 		return ResponseEntity.ok().body(list);
 	}
 
 	@GetMapping(value = "/{id}")
 	public ResponseEntity<Product> findById(@PathVariable Long id) {
-		Product cat = categoryRepository.findById(id).get();
-		return ResponseEntity.ok().body(cat);
+		Product obj = productRepository.findById(id).get();
+		return ResponseEntity.ok().body(obj);
 	} 
 }
