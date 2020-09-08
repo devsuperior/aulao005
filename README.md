@@ -5,10 +5,10 @@ Lesson video:<br/>
 
 ## Sumário
 - [What let's learn?](#O-que-você-vai-aprender)
-- [Pré-requisitos](#Pré-requisitos)
-- [Links sobre REST](#Links-sobre-REST)
-- [Passos](#Passos)
-- [Diagramas](#Diagramas)
+- [Links to Learn REST/Web Services](#Links to Learn REST/Web Services)
+- [What you need to know](#What you need to know)
+- [Steps](#Steps)
+- [Diagrams](#Diagramas)
 
 ## What let's learn?
 - Building an simple Java Application using Spring Boot and Maven
