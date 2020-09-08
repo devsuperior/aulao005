@@ -5,8 +5,8 @@ Lesson video:<br/>
 
 ## Sumário
 - [What let's learn?](#O-que-você-vai-aprender)
-- [Links to Learn REST/Web Services](#Links to Learn REST/Web Services)
-- [What you need to know](#What you need to know)
+- [Links to Learn REST/Web Services](#Links-to-Learn-REST/Web-Services)
+- [What you need to know](#What-you-need-to-know)
 - [Steps](#Steps)
 - [Diagrams](#Diagramas)
 
